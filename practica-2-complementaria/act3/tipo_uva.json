@@ -1,0 +1,8 @@
+{
+  "header": ["cod_tipo_uva", "nombre_tuva"],
+  "content": [
+    [1, "Malbec"],
+    [2, "Cabernet Sauvignon"],
+    [3, "Syrah"]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "header": ["codigoMedicamento", "nombreMedicamento", "tipo", "descripcion"],
+  "content": [
+    [10, "Amoxicilina", "Antibiotico", "Antibiotico de amplio espectro"],
+    [20, "Ivermectina", "Antiparasitario", "Tratamiento contra parasitos"],
+    [30, "Carprofeno", "Analgesico", "Analgesico para dolor en mascotas"],
+    [40, "Doxiciclina", "Antibiotico", "Antibiotico bactericida"]
+  ]
+}

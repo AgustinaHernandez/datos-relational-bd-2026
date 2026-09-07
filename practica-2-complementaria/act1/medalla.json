@@ -1,0 +1,15 @@
+{
+  "header": ["pais", "tipo_medalla", "anio", "cantidad"],
+  "content": [
+    ["ARGENTINA", "ORO", 2024, 1],
+    ["ARGENTINA", "PLATA", 2018, 1],
+    ["ARGENTINA", "BRONCE", 2019, 1],
+    ["ARGENTINA", "ORO", 2020, 1],
+    ["ARGENTINA", "PLATA", 2023, 1],
+    ["ARGENTINA", "BRONCE", 2024, 1],
+
+    ["USA", "ORO", 2019, 3],
+    ["USA", "ORO", 2020, 4],
+    ["USA", "ORO", 2021, 5]
+  ]
+}

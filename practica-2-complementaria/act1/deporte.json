@@ -1,0 +1,9 @@
+{
+  "header": ["codigo_deporte", "denominacion"],
+  "content": [
+    [10, "FUTBOL"],
+    [20, "VOLEIBOL"],
+    [30, "ATLETISMO"],
+    [40, "NATACION"]
+  ]
+}

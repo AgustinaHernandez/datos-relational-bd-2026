@@ -1,0 +1,7 @@
+{
+  "header": ["matricula", "nombreYApellido", "direccion"],
+  "content": [
+    [100, "Dr. Juan Rodríguez", "Clínica Centro"],
+    [200, "Dra. María Fernández", "Clínica Norte"]
+  ]
+}

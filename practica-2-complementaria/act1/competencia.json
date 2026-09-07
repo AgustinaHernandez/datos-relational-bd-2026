@@ -1,0 +1,19 @@
+{
+  "header": ["pais", "codigo_deporte", "anio", "puesto"],
+  "content": [
+    ["ARGENTINA", 10, 2024, 1],
+    ["BRASIL", 20, 2021, 4],
+    ["CHILE", 20, 2019, 5],
+    ["URUGUAY", 20, 2022, 6],
+    ["USA", 30, 2019, 2],
+    ["USA", 30, 2020, 1],
+    ["USA", 30, 2021, 1],
+    ["ARGENTINA", 40, 2018, 2],
+    ["ARGENTINA", 40, 2019, 3],
+    ["ARGENTINA", 40, 2020, 1],
+    ["ARGENTINA", 40, 2021, 4],
+    ["ARGENTINA", 40, 2022, 5],
+    ["ARGENTINA", 40, 2023, 2],
+    ["ARGENTINA", 40, 2024, 3]
+  ]
+}

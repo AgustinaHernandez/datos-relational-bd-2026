@@ -1,0 +1,10 @@
+{
+  "header": ["codigo", "marca", "Modelo_Automovil"],
+  "content": [
+    [1, "Fiat", "Doblo"],
+    [2, "Fiat", "Uno"],
+    [3, "Renault", "Clio"],
+    [4, "Renault", "Sandero"],
+    [5, "Ford", "Ka"]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "header": ["Nombre_Comercio", "Modelo_Lampara", "fabricante", "precio", "stock"],
+  "content": [
+    ["Vilchez", "L100", "Philips", 200000, 10],
+    ["Vilchez", "L100", "Osram", 90000, 5],
+    ["Vilchez", "L200", "Philips", 80000, 8],
+    ["TiendaTotal", "L100", "Philips", 210000, 4],
+    ["TiendaTotal", "L100", "Osram", 95000, 2],
+    ["TiendaTotal", "L300", "GE", 75000, 6],
+    ["TiendaTotal", "L200", "Philips", 82000, 3],
+    ["ElectronicaCordoba", "L100", "Philips", 205000, 1],
+    ["ElectronicaCordoba", "L300", "GE", 76000, 5],
+    ["ElectronicaCordoba", "L100", "Osram", 98000, 2],
+    ["CasaLuz", "L400", "Osram", 120000, 7]
+  ]
+}

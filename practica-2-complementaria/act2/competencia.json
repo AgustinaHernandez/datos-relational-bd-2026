@@ -1,0 +1,8 @@
+{
+  "header": ["competencia_id", "descripcion", "categoria"],
+  "content": [
+    [1, "Copa Nacional", 1],
+    [2, "Liga Internacional", 2],
+    [3, "Torneo Juvenil", 1]
+  ]
+}

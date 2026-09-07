@@ -1,0 +1,10 @@
+{
+  "header": ["cod_vino", "nombre_vino", "cod_tipo_uva", "cod_bodega"],
+  "content": [
+    [101, "Malbec Reserva", 1, 10],
+    [102, "Cabernet Gran Reserva", 2, 10],
+    [103, "Syrah Clásico", 3, 20],
+    [104, "Trapiche Malbec", 1, 20],
+    [105, "Norton Blend", 2, 30]
+  ]
+}

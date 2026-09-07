@@ -1,0 +1,11 @@
+{
+  "header": ["club_id", "nombre_club", "presupuesto"],
+  "content": [
+    [10, "River Plate", 200000],
+    [20, "Boca Juniors", 180000],
+    [30, "San Lorenzo", 120000],
+    [40, "Independiente", 160000],
+    [50, "Racing Club", 140000],
+    [60, "Defensa y Justicia", 100000]
+  ]
+}

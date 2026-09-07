@@ -1,0 +1,9 @@
+{
+  "header": ["Nombre_Comercio", "localidad", "direccion", "email"],
+  "content": [
+    ["Vilchez", "Cordoba", "Av. Colón 123", "vilchez@mail.com"],
+    ["TiendaTotal", "Cordoba", "Belgrano 45", "total@tienda.com"],
+    ["ElectronicaCordoba", "Cordoba", "Rivadavia 200", "info@electrocordoba.com"],
+    ["CasaLuz", "Rosario", "Santa Fe 100", "contacto@casaluz.com"]
+  ]
+}

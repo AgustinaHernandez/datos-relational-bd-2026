@@ -1,0 +1,8 @@
+{
+  "header": ["cod_bodega", "nombre_bodega"],
+  "content": [
+    [10, "Catena Zapata"],
+    [20, "Trapiche"],
+    [30, "Norton"]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "header": ["Codigo_Automovil", "ubicacion", "Modelo_Lampara"],
+  "content": [
+    [1, "delantera", "L100"],  
+    [2, "delantera", "L200"],
+    [3, "trasera", "L300"],     
+    [4, "trasera", "L300"],     
+    [5, "delantera", "L400"]
+  ]
+}

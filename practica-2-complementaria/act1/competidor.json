@@ -1,0 +1,24 @@
+{
+  "header": ["nro_competidor", "pais", "anio", "nombre", "codigo_deporte"],
+  "content": [
+    [101, "ARGENTINA", 2024, "Lionel Messi", 10],
+    [102, "ARGENTINA", 2024, "Emiliano Martinez", 10],
+    [103, "ARGENTINA", 2024, "Angel Di Maria", 10],
+
+    [201, "BRASIL", 2021, "Silva", 20],
+    [202, "CHILE", 2019, "Carlos Rojas", 20],
+    [203, "URUGUAY", 2022, "Perez", 20],
+
+    [301, "USA", 2019, "Michael Smith", 30],
+    [302, "USA", 2020, "Michael Smith", 30],
+    [303, "USA", 2021, "Michael Smith", 30],
+
+    [401, "ARGENTINA", 2018, "Competidor A", 40],
+    [402, "ARGENTINA", 2019, "Competidor B", 40],
+    [403, "ARGENTINA", 2020, "Competidor C", 40],
+    [404, "ARGENTINA", 2021, "Competidor D", 40],
+    [405, "ARGENTINA", 2022, "Competidor E", 40],
+    [406, "ARGENTINA", 2023, "Competidor F", 40],
+    [407, "ARGENTINA", 2024, "Competidor G", 40]
+  ]
+}
