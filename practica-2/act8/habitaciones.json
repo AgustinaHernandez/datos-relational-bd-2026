@@ -1,0 +1,4 @@
+{"header": ["cod_habitacion", "nombre_habitacion", "tipo_habitacion"], "content": [
+  [101, "Hab 101", 1], 
+  [102, "Hab 102", 2]
+]}

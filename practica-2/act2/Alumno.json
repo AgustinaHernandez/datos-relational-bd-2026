@@ -1,0 +1,4 @@
+{"header": ["dni", "Nombre_y_Apellido", "direccion"], "content": [
+  [111, "Juan Perez", "Calle 1"], 
+  [222, "Ana Gomez", "Calle 2"]
+]}

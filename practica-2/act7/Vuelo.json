@@ -1,0 +1,6 @@
+{"header": ["nro_vuelo", "origen", "destino"], "content": [
+  [10, "RIO CUARTO", "CORDOBA"], 
+  [20, "CORDOBA", "BS. AS"], 
+  [30, "RIO CUARTO", "BS. AS"], 
+  [40, "MENDOZA", "BS. AS"]
+]}
