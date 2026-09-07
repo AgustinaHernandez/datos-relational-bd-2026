@@ -1,0 +1,3 @@
+nro_art,descripcion,precio,cantidad,Stock_Min,Stock_Max,Mes_Ult_Movim,Fecha_Vto
+1,Articulo A,123,2,6,8,AGOSTO,2027-03-12
+0,Articulo B,123,2,2,3,JULIO,2026-03-12
