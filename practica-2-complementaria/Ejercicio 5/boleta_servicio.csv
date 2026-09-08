@@ -1,0 +1,10 @@
+id_boleta,nombre_empresa,dni_cliente,importe1,fecha_vto1,importe2,fecha_vto2
+1,Nextel,21111111,5000,marzo 2026,5500,abril 2026
+2,Nextel,51111111,5000,marzo 2026,5500,abril 2026
+3,Nextel,41111111,5000,enero 2026,5500,febrero 2026
+4,Ecogas,41111111,5000,enero 2026,5500,febrero 2026
+5,Ecogas,11111111,70000,abril 2024,100000,junio 2024
+6,Ecogas,11111111,70000, julio 2026,100000,septiempre 2026
+7,Nextel,31111111,5000,mayo 2025,5500,julio 2025
+8,Ecogas,31111111,8000,mayo 2025,8500,julio 2025
+9,Nextel,31111111,5000,junio 2025,5500,julio 2025
