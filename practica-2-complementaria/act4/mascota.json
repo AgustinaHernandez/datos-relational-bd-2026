@@ -1,8 +1,8 @@
 {
   "header": ["historiaClinica", "nombre", "fechaNac", "nombreDuenio", "direccion"],
   "content": [
-    [1, "Firulais", "2020-05-10", "Carlos", "Av. Siempre Viva 123"],
-    [2, "Michi", "2019-08-21", "Laura", "Calle Falsa 456"],
-    [3, "Toby", "2021-03-15", "Ana", "San Martin 789"]
+    [1, "Firulais", "20200510", "Carlos", "Av. Siempre Viva 123"],
+    [2, "Michi", "20190821", "Laura", "Calle Falsa 456"],
+    [3, "Toby", "20210315", "Ana", "San Martin 789"]
   ]
 }

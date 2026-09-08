@@ -36,7 +36,7 @@ Dentro de la herramienta Relational:
 
 ![boton-load](./img/boton-load.png)
 
-2. Seleccioná los archivos `.json` que corresponden al ejercicio que querés probar.
+2. Seleccioná los archivos (`.json` o `.csv`) que corresponden al ejercicio que querés probar.
 3. Las tablas aparecerán cargadas en el panel izquierdo (Relations).
 4. Escribí tu sentencia en álgebra relacional en el editor de texto y ejecutala.
 5. Podés comparar la tabla que genere tu consulta con los [resultados esperados](./resultados_esperados.md).
@@ -54,6 +54,7 @@ Para verificar que tus resoluciones funcionan correctamente, revisá el archivo 
 
 - La operacion de igualdad se escribe como en Java como `==`, no `=`.
 - La de desigualdad se escribe `!=`.
+- Las fechas se escriben en el formato YYYYMMDD (año,mes,día), sin guiones. Por ejemplo, el 15 de julio de 2026 figura como `20260715`. Cuando escribas tus consultas asegurate de respetar este formato.
 
 
 <br>
