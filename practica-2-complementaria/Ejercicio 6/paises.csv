@@ -1,0 +1,5 @@
+cod_pais,nombre_pais,es_del_mercosur
+1,argentina,TRUE
+2,paraguay,TRUE
+3,españa,FALSE
+4,brasil,TRUE
