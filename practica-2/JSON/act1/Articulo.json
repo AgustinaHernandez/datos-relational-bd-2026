@@ -1,5 +1,0 @@
-{"header": ["nro_art", "descripcion", "precio", "cantidad", "Stock_Min", "Stock_Max", "Mes_Ult_Movim", "Fecha_Vto"], "content": [
-  [1, "Goma", 10, 5, 10, 50, "AGOSTO", "2027-01"], 
-  [2, "Lapiz", 5, 20, 5, 100, "JUNIO", "2025-12"], 
-  [3, "Regla", 15, 2, 5, 20, "JULIO", "2026-05"]
-]}

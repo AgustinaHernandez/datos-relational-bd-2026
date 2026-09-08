@@ -52,8 +52,6 @@ Para verificar que tus resoluciones funcionan correctamente, revisá el archivo 
 
 ## Detalles a tener en cuenta en Relational
 
-Agrego detalles que pueden dar error en sus consultas si no se consideran:
-
 - La operacion de igualdad se escribe como en Java como `==`, no `=`.
 - La de desigualdad se escribe `!=`.
 
