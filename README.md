@@ -2,12 +2,12 @@
 
 Este repositorio contiene archivos con datos preparados para probar las consultas del Práctico 2 (2026) (en formato JSON y CSV).
 
-Cualquier corrección o contribución que surja es más que bienvenida :)  
+Cualquier corrección o contribución es más que bienvenida :)  
 
 ## Índice
 1. [Descarga del repositorio](#descarga-del-repositorio)
 2. [Carga de archivos y ejecución en Relational](#carga-de-archivos-y-ejecución-en-relational)
-3. [Validación de resultados](#validación-de-resultados)
+3. [Algunos detalles de Relational](#algunos-detalles-de-relational)
 
 ---
 
@@ -28,33 +28,29 @@ git clone https://github.com/AgustinaHernandez/datos-relational-bd-2026
 
 Dentro de la herramienta Relational:
 
-1. Ingresá a **Relations > Load relation**
+1. Ingresá a **Relations > Load relation** (o hacé click en el botón Load de la esquina inferior derecha)
 
-![relations](./img/boton-relations.png)
+<p align="center">
+    <img src="./img/boton-relations.png" width="35%" alt="Boton Relations" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./img/boton-load.png" width="45%" alt="Boton load" />
+</p>
 
-1. (o hacé click en el botón Load de la esquina inferior derecha)
 
-![boton-load](./img/boton-load.png)
-
-2. Seleccioná los archivos (`.json` o `.csv`) que corresponden al ejercicio que querés probar.
-3. Las tablas aparecerán cargadas en el panel izquierdo (Relations).
+2. Seleccioná los archivos (`.csv` o `.json`) que corresponden al ejercicio que querés probar.
+3. Las tablas aparecerán cargadas en el panel derecha (Relations).
 4. Escribí tu sentencia en álgebra relacional en el editor de texto y ejecutala.
-5. Podés comparar la tabla que genere tu consulta con los [resultados esperados](./resultados_esperados.md).
 
 > **Aclaración:** En los enunciados de la práctica, algunos atributos usan `#` (como `#art` o `#vuelo`). En estos archivos los vas a encontrar como `nro_art` y `nro_vuelo`. Tenelo en cuenta para tus consultas!
 
 ---
 
-## Validación de resultados
 
-Para verificar que tus resoluciones funcionan correctamente, revisá el archivo [resultados_esperados.md](./resultados_esperados.md). Allí se encuentran los resultados exactos que se esperan conseguir con las consultas en cada actividad.
+## Algunos detalles de Relational
 
-
-## Detalles a tener en cuenta en Relational
-
-- La operacion de igualdad se escribe como en Java como `==`, no `=`.
+- La operacion de igualdad se escribe `==`, no `=`.
 - La de desigualdad se escribe `!=`.
-- Las fechas se escriben en el formato YYYYMMDD (año,mes,día), sin guiones. Por ejemplo, el 15 de julio de 2026 figura como `20260715`. Cuando escribas tus consultas asegurate de respetar este formato.
+- Las fechas se escriben en el formato YYYYMMDD (año,mes,día), sin guiones ni comillas. Por ejemplo, el 15 de julio de 2026 es `20260715`. Cuando escribas tus consultas asegurate de respetar este formato.
 
 
 <br>

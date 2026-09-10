@@ -2,7 +2,7 @@
   "header": ["Modelo_Lampara", "fabricante", "tipo", "potencia", "descripcion"],
   "content": [
     ["L100", "Philips", "Halógena", 55, "Óptica delantera alta"],
-    ["L100", "Osram", "Halógena", 55, "Óptica delantera alta"],
+    ["L500", "Osram", "Halógena", 55, "Óptica delantera alta"],
     ["L200", "Philips", "LED", 30, "Faro lateral"],
     ["L300", "GE", "LED", 21, "Faro trasero"],
     ["L400", "Osram", "Xenón", 35, "Faro auxiliar"]
