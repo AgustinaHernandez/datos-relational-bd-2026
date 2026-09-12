@@ -31,9 +31,9 @@ Dentro de la herramienta Relational:
 1. Ingresá a **Relations > Load relation** (o hacé click en el botón Load de la esquina inferior derecha)
 
 <p align="center">
-    <img src="./img/boton-relations.png" width="35%" alt="Boton Relations" />
+    <img src="https://github.com/AgustinaHernandez/datos-relational-bd-2026/img/boton-relations.png" width="35%" alt="Boton Relations" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./img/boton-load.png" width="45%" alt="Boton load" />
+    <img src="https://github.com/AgustinaHernandez/datos-relational-bd-2026/img/boton-load.png" width="45%" alt="Boton load" />
 </p>
 
 
